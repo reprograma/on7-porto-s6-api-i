@@ -3,6 +3,8 @@ refletindo e estruturando os dados conforme a necessidade.
 
 Em cada arquivo .json é necessário fazer, no mínimo dez itens, 
 cada item deve conter pelo menos três atributos. 
+Você pode ver o arquivo de exemplo chamado filmesNetflix.json, nessa mesma pasta. Lembrando que o exemplo se limita a 10 itens da lista e 3 atributos em cada lista, você pode fazer mais se quiser!
+Outro exemplo é o arquivo tarefas.json na pasta bloco-4.
 
 Abaixo você tem sugestões de temas, escolha pelo menos 10 :)
 
