@@ -1,0 +1,111 @@
+[
+  {
+    "id": 1,
+    "nomeDoCanal": "PewDiePie",
+    "youTuber": "Felix Arvid Ulf Kjellberg",
+    "visualizacoes": "10.590.127",
+    "inscritos": "106.000.000",
+    "descricaoDoCanal": "comentários e reações a games variados enquanto os joga",
+    "maiorSucesso": "Meme Review",
+    "monetizacaoAnual": "R$ 3.700.000.000,00"
+  },
+  
+  {
+    "id": 2,
+    "nomeDoCanal": "HolaSoyGerman",
+    "youTuber": "Germán Alejandro Garmendia Aranis",
+    "visualizacoes": "51.685.848",
+    "inscritos": "41.600.000",
+    "descricaoDoCanal": "vídeos sobre situações engraçadas e constrangedoras do seu cotidiano",
+    "maiorSucesso": "Los Hermanos",
+    "monetizacaoAnual": "R$ 10.780.000"
+  },
+
+  {
+    "id": 3,
+    "nomeDoCanal": "whinderssonnunes",
+    "youTuber": "Whindersson Nunes Batista",
+    "visualizacoes": "51.685.848",
+    "inscritos": "1.579.969",
+    "descricaoDoCanal": "humor",
+    "maiorSucesso": "Qual é a senha do WI-FI",
+    "monetizacaoAnual": "R$ 10.780.000"
+  },
+
+  {
+    "id": 4,
+    "nomeDoCanal": "Dude Perfect",
+    "youTuber": ["Tyler Toney", "Coby Cotton", "Cory Cotton", "Cody Jones", "Garrett Hilbert"],
+    "visualizacoes": "8.113.718",
+    "inscritos": "53.400.000",
+    "descricaoDoCanal": "entretenimento esportivo",
+    "maiorSucesso": "Backyard Stuntmen",
+    "monetizacaoAnual": "R$ 53.910.000"
+  },
+
+  {
+    "id": 5,
+    "nomeDoCanal": "Felipe Neto",
+    "youTuber": "Felipe Neto Rodrigues Vieira",
+    "visualizacoes": "8.113.718",
+    "inscritos": "53.400.000",
+    "descricaoDoCanal": "críticas cômicas e irônicas a comportamentos e atitudes de artistas",
+    "maiorSucesso": "Rebuliço – Paródia Despacito",
+    "monetizacaoAnual": "R$ 64.700.000"
+  },
+
+  {
+    "id": 6,
+    "nomeDoCanal": "Fernanfloo",
+    "youTuber": "Luis Fernando Flores",
+    "visualizacoes": "15.331.447",
+    "inscritos": "37.800.000",
+    "descricaoDoCanal":"comentários e reações a games variados enquanto joga",
+    "maiorSucesso": "El Rap de Fernanfloo!!",
+    "monetizacaoAnual": "R$ 24.260.000"
+  },
+
+  {
+    "id": 7,
+    "nomeDoCanal": "Você Sabia",
+    "youTuber": ["Lukas Marques", "Daniel Molo"],
+    "visualizacoes": "9.685.049",
+    "inscritos": "37.100.000",
+    "descricaoDoCanal":"curiosidades, historias e fatos interessantes do mundo",
+    "maiorSucesso": "As Melhores Pegadinhas do Mundo",
+    "monetizacaoAnual": "R$ 43.130.000"
+  },
+
+  {
+    "id": 8,
+    "nomeDoCanal": "Smosh",
+    "youTuber": ["Anthony Padilla", "Ian Andrew Hecox"],
+    "visualizacoes": "1.637.488",
+    "inscritos": "25.100.000",
+    "descricaoDoCanal":"esquetes inspiradas em clássicos como Pokémon e Super Mario Brós",
+    "maiorSucesso": "Literally No One",
+    "monetizacaoAnual": "R$ 32.200.000"
+  },
+
+  {
+    "id": 9,
+    "nomeDoCanal": "Rhett e Link",
+    "youTuber": ["Rhett James McLaughlin", "Link Neal"],
+    "visualizacoes": "902.290.340",
+    "inscritos": "4.960.000",
+    "descricaoDoCanal":"vídeos cômicos ",
+    "maiorSucesso": "My OCD (Song)",
+    "monetizacaoAnual": "R$ 26.960.000,00"
+  },
+
+  {
+    "id": 10,
+    "nomeDoCanal": "Smile More",
+    "youTuber": "Roman Atwood",
+    "visualizacoes": "1.527.795.781",
+    "inscritos": "10.500.000",
+    "descricaoDoCanal":"vídeos cômicos ",
+    "maiorSucesso": "Old Man Street Workout Prank - Muscle Madness",
+    "monetizacaoAnual": "R$ 43.130.000,00"
+  }
+]

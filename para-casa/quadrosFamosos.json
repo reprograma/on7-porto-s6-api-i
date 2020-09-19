@@ -1,0 +1,111 @@
+[
+  {
+    "id": 1,
+    "nome": "O Grito",
+    "autor": "Edvard Munch",
+    "ano": "1893",
+    "localizacao": "Galeria Nacional de Oslo",
+    "movimento": "Expressionismo", 
+    "dimensoes": "91 x 73.5 cm", 
+    "tecnica": "óleo e pastel sobre cartão"
+  },
+
+  {
+    "id": 2,
+    "nome": "Auto-Retrato",
+    "autor": "Vincent van Gogh",
+    "ano": "1889",
+    "localizacao": "Musée d'Orsay, em Paris",
+    "movimento": "Pós-Expressionismo", 
+    "dimensoes": "65 cm x 54 cm", 
+    "tecnica": "tinta à óleo"
+  },
+
+  {
+    "id": 3,
+    "nome": "A Mulher que Chora",
+    "autor": "Pablo Picasso",
+    "ano": "1937",
+    "localizacao": "Tate Gallery em Londres",
+    "movimento": "Cubismo", 
+    "dimensoes": " 60,8 x 50 cm", 
+    "tecnica": "tinta a óleo"
+  },
+
+  {
+    "id": 4,
+    "nome": "Os Retirantes",
+    "autor": "Cândido Portinari",
+    "ano": "1944",
+    "localizacao": "Museu de Arte de São Paulo",
+    "movimento": "Expressionismo", 
+    "dimensoes": "190 x 180 cm", 
+    "tecnica": "tinta a óleo"
+  },
+
+  {
+    "id": 5,
+    "nome": "A Persistência da Memória",
+    "autor": "Salvador Dali",
+    "ano": "1931",
+    "localizacao": "The Museum of Modern Art of New York",
+    "movimento": "Surrealista", 
+    "dimensoes": "24 x 33 cm", 
+    "tecnica": "bronze, Tinta a óleo"
+  },
+
+  {
+    "id": 6,
+    "nome": "A Mona Lisa",
+    "autor": "Leonardo da Vinci",
+    "ano": "1503",
+    "localizacao": "Museu do Louvre de Paris",
+    "movimento": "Renascentista", 
+    "dimensoes": "77 x 53 cm", 
+    "tecnica": "bronze, tinta a óleo"
+  },
+
+  {
+    "id": 7,
+    "nome": "O Nascimento de Vênus",
+    "autor": "Sandro Botticelli",
+    "ano": "1485–1486",
+    "localizacao": "Galleria degli Uffizi em Florença",
+    "movimento": "Renascentista", 
+    "dimensoes": "71,72 x 2,78 m", 
+    "tecnica": "têmpera"
+  },
+
+  {
+    "id": 8,
+    "nome": "A Ronda Noturna",
+    "autor": "Rembrandt",
+    "ano": "1642",
+    "localizacao": "Rijksmuseum de Amsterdã",
+    "movimento": "Barroco", 
+    "dimensoes": "3,63 x 4,37 m", 
+    "tecnica": "tinta a óleo"
+  },
+
+  {
+    "id": 9,
+    "nome": "The Chess Game",
+    "autor": "Sofonisba Anguissola",
+    "ano": "1555",
+    "localizacao": "Museu Nacional em Poznań, na Polônia",
+    "movimento": "Renascimento", 
+    "dimensoes": "70 x 94 cm", 
+    "tecnica": "tinta a óleo"
+  },
+
+  {
+    "id": 10,
+    "nome": "O que a Água me Deu",
+    "autor": "Frida Kahlo",
+    "ano": "1938",
+    "localizacao": "Museu Nacional em Poznań, na Polônia",
+    "movimento": "Arte naïf", 
+    "dimensoes": "91 x 70 cm", 
+    "tecnica": "tinta a óleo"
+  }
+]

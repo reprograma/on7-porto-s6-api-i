@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "nome": "Peixe-Boi Amazônico",
+    "nomeCientifico": "Trichechus inunguis",
+    "espécie": "mamífero aquático",
+    "alimentacao": "plantas aquáticas",
+    "habitat": "Bacia Amazônica",
+    "ameacadoDeExtincao": true
+  },
+
+  {
+    "id": 2,
+    "nome": "Mico-Leão Dourado",
+    "nomeCientifico": "Leontopithecus rosalia",
+    "espécie": "mamífero",
+    "alimentacao": ["frutos", "animais invertebrados", "pequenos vertebrados"],
+    "habitat": "Mata Atlântica",
+    "ameacadoDeExtincao": true
+  }, 
+
+  {
+    "id": 3,
+    "nome": "Tamanduá-bandeira",
+    "nomeCientifico": "Myrmecophaga tridactyla",
+    "espécie": "mamífero",
+    "alimentacao": ["frutos", "animais invertebrados", "pequenos vertebrados"],
+    "habitat": ["Amazônia", "Caatinga", "Mata Atlântica", "Pantanal", "Cerrado", "Pampa"],
+    "ameacadoDeExtincao": true
+  }, 
+
+  {
+    "id": 4,
+    "nome": "Sucuri",
+    "nomeCientifico": "Eunectes",
+    "espécie": "réptil",
+    "alimentacao": "vertebrados",
+    "habitat": ["Amazônia", "Cerrado", "Pantanal"],
+    "ameacadoDeExtincao": false
+  },
+
+  {
+    "id": 5,
+    "nome": "Anta-brasileira",
+    "nomeCientifico": "Tapirus terrestris",
+    "espécie": "mamífero Perissodáctilo",
+    "alimentacao": ["mamíferos", "répteis", "aves"],
+    "habitat": "frugívoros",
+    "ameacadoDeExtincao": false
+  },
+
+  {
+    "id": 6,
+    "nome": "Bicho-Preguiça",
+    "nomeCientifico": "Folivora",
+    "espécie": "mamífero",
+    "alimentacao": ["raízes", "folhas", "frutas"],
+    "habitat": "Todo o Brasil",
+    "ameacadoDeExtincao": false
+  },
+
+  {
+    "id": 7,
+    "nome": "Arara Azul",
+    "nomeCientifico": "Anodorhynchus hyacinthinus",
+    "espécie": "ave",
+    "alimentacao": "frutos de palmeiras",
+    "habitat": "Pantanal",
+    "ameacadoDeExtincao": true
+  },
+
+  {
+    "id": 8,
+    "nome": "Capivara",
+    "nomeCientifico": "Hydrochoerus hydrochaeris",
+    "espécie": "roedor",
+    "alimentacao": "frutos de palmeiras",
+    "habitat": ["Amazônia", "Caatinga", "Mata Atlântica", "Pantanal", "Cerrado"],
+    "ameacadoDeExtincao": false
+  },
+
+  {
+    "id": 9,
+    "nome": "Tatu",
+    "nomeCientifico": "Dasypodidae",
+    "espécie": "mamífero",
+    "alimentacao": ["pequenos invertebrados", "raízes", "vegetais", "frutos"],
+    "habitat": ["Caatinga", "Cerrado"],
+    "ameacadoDeExtincao": true
+  },
+
+  {
+    "id": 10,
+    "nome": "Tangará",
+    "nomeCientifico": "Chiroxiphia caudata",
+    "espécie": "ave",
+    "alimentacao": ["pequenos invertebrados", "raízes", "vegetais", "frutos"],
+    "habitat": ["sul da Bahia", "sudeste do Brasil", "sul do Brasil"],
+    "ameacadoDeExtincao": false
+  }
+]

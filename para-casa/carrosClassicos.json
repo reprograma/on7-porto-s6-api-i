@@ -1,0 +1,111 @@
+[
+  {
+    "id": 1,
+    "nome":  "Bristol 400",
+    "tipo": "sedã esportivo",
+    "numeroDePortas": "2",
+    "fabricante": "Bristol Airplane Company",
+    "motor": "Pushrod - 6 cc",
+    "anoDeFabricacao": "1949",
+    "precoAtual": "R$ 590.000,00"
+  },
+
+  {
+	"id": 2,
+	"nome": "Corvette",
+	"tipo": "esportivo",
+	"numeroDePortas": "2",
+	"fabricante": "Divisão Chevrolet da General Motors",
+	"motor": "V8 de 350 HP",
+    "anoDeFabricacao": "1953",
+	"precoAtual": "R$ 290.000,00"
+  },
+
+  {
+    "id": 3,
+	"nome": "Cadillac Coupé",
+	"tipo": "luxo",
+	"numeroDePortas": "2",
+	"fabricante": "Cadillac Automobile Company",
+	"motor": "V8 OHV",
+    "anoDeFabricacao": "1953",
+	"precoAtual": "R$ 460.000,00"
+  },
+
+  {
+    "id": 4,
+	"nome": "Ford Tudor",
+	"tipo": "",
+	"numeroDePortas": "2",
+	"fabricante": "Ford Motor Company",
+	"motor": "V8-302",
+    "anoDeFabricacao": "1932",
+	"precoAtual": "R$ 270.000,00"
+  }, 
+
+  {
+    "id": 5,
+	"nome": "Ferrari 250 GT Spyder California SWB",
+	"tipo": "conversível",
+	"numeroDePortas": "2",
+	"fabricante": "Scuderia Ferrari",
+	"motor": "2953cc SOHC V12",
+    "anoDeFabricacao": "1961",
+	"precoAtual": "R$ 52.000.000,00"
+  }, 
+
+  {
+    "id": 6,
+	"nome": "Lagonda LG45 Rapide",
+	"tipo": "luxo",
+	"numeroDePortas": "2",
+	"fabricante": "Aston Martin Lagonda Limited",
+	"motor": "Meadows - 6 cc",
+    "anoDeFabricacao": "1937",
+	"precoAtual": "R$ 2.000.000,00"
+  },
+
+  {
+    "id": 7,
+	"nome": "BMW 507",
+	"tipo": "conversível",
+	"numeroDePortas": "2",
+	"fabricante": "Bayerische Motoren Werke",
+	"motor": "3168 cc M507 / 1 V8",
+    "anoDeFabricacao": "1958",
+	"precoAtual": "R$ 5.500.000,00"
+  },
+
+  {
+    "id": 8,
+	"nome": "Rolls-Royce Phantom VI",
+	"tipo": "limusine",
+	"numeroDePortas": "4",
+	"fabricante": "Rolls-Royce Motor Cars",
+	"motor": "V8 - 6230  cc",
+    "anoDeFabricacao": "1970",
+	"precoAtual": "R$ 1.650.000,00"
+  },
+
+  {
+    "id": 9,
+	"nome": "Cobra Daytona Coupé",
+	"tipo": "esportivo",
+	"numeroDePortas": "2",
+	"fabricante": "Shelby American",
+	"motor": "V8",
+    "anoDeFabricacao": "1965",
+	"precoAtual": "R$ 39.000.000,00"
+  },
+
+  {
+    "id": 10,
+	"nome": "Daimler 250",
+	"tipo": "sedã",
+	"numeroDePortas": "4",
+	"fabricante": "The Daimler Company Limited",
+	"motor": "V8",
+    "anoDeFabricacao": "1965",
+	"precoAtual": "R$ 250.000,00"
+  }
+]
