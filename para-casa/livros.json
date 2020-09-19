@@ -1,0 +1,81 @@
+[
+  {
+    "id": 1,
+    "titulo":"Guerra e Paz",
+    "autor": "Liev Tolstói",
+    "genero": "Romance Histórico",
+    "ano": "1967"
+  },
+
+  {
+    "id": 2,
+    "titulo": "Sapiens - Uma Breve História da Humanidade",
+    "autor": "Yuval Harari",
+    "genero": "Não ficção",
+    "ano": "2011"
+  },
+
+  {
+    "id": 3,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "J. R. R. Tolkien",
+    "genero": ["Fantasia‎", "‎Aventura"],
+    "ano": "1954"
+  },
+
+  {
+    "id": 4,
+    "titulo": "Harry Potter",
+    "autor": "J. K. Rowling",
+    "geenero": ["Fantasia‎","‎Aventura"],
+    "ano": "1997"
+  },
+
+  {
+    "id": 5,
+    "titulo": "Brave New World: Admirável Mundo Novo",
+    "autor": "Aldous Huxley",
+    "genero": ["Romance", "Ficção científica", "Ficção distópica"],
+    "ano": "1932"
+  },
+
+  {
+    "id": 6,
+    "titulo": "Cem Anos de Solidão",
+    "autor": "Gabriel Garcia Marques",
+    "genero": ["Realismo mágico", "Romance"],
+    "ano": "1967"
+  },
+
+  {
+    "id": 7,
+    "titulo": "A Divina Comédia",
+    "autor": "Dante Alighieri",
+    "genero": ["Épico", "Teológico"],
+    "ano": "1321"
+  },
+
+  {
+    "id": 8,
+    "titulo": "Dom Quixote",
+    "autor": "Miguel de Cervantes",
+    "genero": ["Sátira", "Paródia"],
+    "ano": "1605"
+  },
+
+  {
+    "id": 9,
+    "titulo": "Crime e Castigo",
+    "autor": "Fiódor Dostoiévski",
+    "genero": ["Romance", "Ficção Policial", "Romance Psicológico", "Romance filosófico"],
+    "ano": "1866"
+  },
+  
+  {
+    "id": 10,
+    "titulo": "Os Lusíadas",
+    "autor": "Luís de Camões",
+    "genero": "Poesia Épica",
+    "ano": "1572"
+  }
+]

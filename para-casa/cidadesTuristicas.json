@@ -1,0 +1,91 @@
+[
+  {
+    "id": 1,
+    "cidade": "Paris",
+    "pais": "França",
+    "monumentoFamoso": ["Museu do Louvre", "Torre Eiffel", "Catedral de Notre-Dame"],
+    "idioma": "francês",
+    "culinaria": ["Foie Gras", "Escargots", "Quiche Lorraine"]
+  },
+
+  {
+    "id": 2,
+    "cidade": "Roma",
+    "pais": "Itália",
+    "monumentoFamoso": ["Coliseu", "Fontana de Trevi", "Basílica de São Pedro", "Praça do Campo de Fiori"],
+    "idioma": "italiano",
+    "culinaria": ["Carbonara", "Capuccino", "Nhoque", "Pizza"]
+  },
+
+  {
+    "id": 3,
+    "cidade": "Berlim",
+    "pais": "Alemanha",
+    "monumentoFamoso": ["Muro de Berlim", "Portão de Brandemburgo", "Palácio do Reichstag", "Artes de Rua"],
+    "idioma": "alemão",
+    "culinaria": ["Eisbein", "Strudel", "Chucrute", "Wurst"]
+  },
+
+  {
+    "id": 4,
+    "cidade": "Barcelona",
+    "pais": "Espanha",
+    "monumentoFamoso": ["Sagrada Família", "Parque Güel", "La Boqueria", "Museu Picasso"],
+    "idioma": "espanhol",
+    "culinaria": ["Paella", "Tortilla", "Gazpacho", "Jamón Serrano"]
+  },
+
+  {
+    "id": 5,
+    "cidade": "Nova York",
+    "pais": "Estados Unidos",
+    "monumentoFamoso": ["Central Park", "Estátua da Liberdade", "Time Square", "Chinatown"],
+    "idioma": "inglês",
+    "culinaria": ["Apple Pie", "Pancake", "Brownie", "Hambúrguer", "Pok Ribs"]
+  },
+
+  {
+    "id": 6,
+    "cidade": "Santorini",
+    "pais": "Grécia",
+    "monumentoFamoso": ["Ancient Thera", "Akrotiri", "Red Beach", "Vila Imerovigli"],   
+    "idioma": "grego",
+    "culinaria": ["Tzatziki", "Moussaka", "Souvlaki", "Dolmades"]
+  },
+
+  {
+    "id": 7,
+    "cidade": "Londres",
+    "pais": "Inglaterra",
+    "monumentoFamoso": ["London Eye", "Palácio de Buckingham", "Tower Bridge", "Big Ben", "Leake Street"],
+    "idioma": "inglês",
+    "culinaria": ["Scones", "Wellington Beef", "Steak and Ale Pie", "Bangers and mash"]
+  },
+
+  {
+    "id": 8,
+    "cidade": "Tóquio",
+    "pais": "Japão",
+    "monumentoFamoso": ["Mercado Tsukiji", "Santuário Meiji Jingu", "Bairro Harajuku", "Golden Gai"],
+    "idioma": "japonês",
+    "culinaria": ["Sushi", "Okonomiyaki", "Fugu", "Gyoza"]
+  },
+
+  {
+    "id": 9,
+    "cidade": "Machu Picchu",
+    "pais": "Peru",
+    "monumentoFamoso": ["Banhos Termais", "Huayna Picchu"],
+    "idioma": "espanhol",
+    "culinaria": ["Ceviche", "Anticuchos", "Rocoto Relleno"]
+  },
+
+  {
+    "id": 10,
+    "cidade": "Cairo",
+    "pais": "Egito",
+    "monumentoFamoso": ["Pirâmides de Gizé", "Museu Egípcio", "Khan el-Khalili Bazaar", "Mosteiro de São Simão"],
+    "idioma": "árabe",
+    "culinaria": ["Falafel", "Kebab", "Bklava", "kanafeh","kushari"] 
+  }
+]

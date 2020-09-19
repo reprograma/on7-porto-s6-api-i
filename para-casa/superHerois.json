@@ -1,0 +1,111 @@
+[
+  {
+    "id": 1,
+    "alterEgo": "Flash",
+    "nome": "Jay Garrick",
+    "poder": "super velocidade",
+    "autor": "Gardner Fox",
+    "desenhista": "Harry Lampert",
+    "editora": "DC Comics", 
+    "ano": "1940"
+  },
+  
+  {
+    "id": 2,
+    "alterEgo": "Wonder Woman: Mulher Maravilha",
+    "nome": "Princesa Diana",
+    "poder": ["super força", "imortalidade"],
+    "autor": "William Moulton Marston",
+    "desenhista": "",
+    "editora": "DC Comics",
+    "ano": "1941"
+  },
+
+  {
+    "id": 3,
+    "alterEgo": "Doctor Strange: Doutor Estranho",
+    "nome": "Stephen Vincent Strange",
+    "poder": ["super feitiços", "teletransporte", "projeção astral", "projeção de pensamento"],
+    "autor": "Stan Lee",
+    "desenhista": "Steve Ditko",
+    "editora": "Marvel Comics",
+    "ano": "1963"
+  },
+
+  {
+    "id": 4,
+    "alterEgo": "Mystique: Mística",
+    "nome": "Raven Darkholme",
+    "poder": ["mudança de forma", "cura regenerativa"],
+    "autor": "Chris Claremont",
+    "desenhista": "David Cockrum",
+    "editora": "Marvel Comics",
+    "ano": "1978"
+  }, 
+
+  {
+    "id": 5,
+    "alterEgo": " Wolverine",
+    "nome": "James Logan",
+    "poder": ["visão noturna", "cura regenerativa", "olfato e audição sobrehumana", "imortalidade"],
+    "autor": ["Roy Thomas", "Len Wein"],
+    "desenhista": "John V. Romita Senior",
+    "editora": "Marvel Comics",
+    "ano": "1974"
+  },
+
+  { 
+    "id": 6,
+    "alterEgo": "Aquaman",
+    "nome": "Arthur Curry",
+    "poder": ["respiração embaixo d'água", "telepatia", "controle eental dos animais marinhos", "super-nado"], 
+    "autor": "Mort Weisinger",
+    "desenhista": "Paul Norris",
+    "editora": "Marvel Comics",
+    "ano": "1941"
+  },
+
+  {
+    "id": 7,
+    "alterEgo": "Magneto",
+    "nome": "Max Eisenhardt",
+    "poder": ["manipulação de campos magnéticos", "controle de metais"],
+    "autor": "Stan Lee",
+    "desenhista": "Jack Kirby",
+    "editora": "Marvel Comics",
+    "ano": "1963"
+  },
+
+  {
+    "id": 8,
+    "alterEgo": "Storm: Tempestade",
+    "nome": "Ororo Munroe",
+    "poder": "manipulação do clima",
+    "autor": "Len Wein",
+    "desenhista": "Dave Cockrum",
+    "editora": "Marvel Comics",
+    "ano": "1975"
+  },
+
+  {
+    "id": 9,
+    "alterEgo": "Ciclope",
+    "nome": "Scott Summers",
+    "poder": "emissão de raio laser pelos olhos",
+    "autor": "Stan Lee",
+    "desenhista": "Jack Kirby",
+    "editora": "Marvel Comics",
+    "ano": "1963"
+  },
+
+  {
+    "id": 10,
+    "alterEgo": "Vampira",
+    "nome": "‎Anna Marie LeBeau‎ ",
+    "poder": "absorção de habilidades físicas e mentais",
+    "autor": "Chris Claremont",
+    "desenhista": "Michael Golden",
+    "editora": "Marvel Comics",
+    "ano": "1981"
+  }
+]
